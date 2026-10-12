@@ -1,0 +1,7 @@
+[project]
+name = "production-pipeline-lab"
+version = "0.1.0"
+description = "A hands-on data engineering lab extending the Stroopwafel shop dataset (from Fundamentls of Analytics Engineering) with custom Python ingestion, incremental processing, and reliable data pipelines."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
