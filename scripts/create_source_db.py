@@ -17,7 +17,8 @@ def create_database():
                 total_price INTEGER NOT NULL,
                 total_discount INTEGER,
                 weekday TEXT,
-                payment_type TEXT
+                payment_type TEXT,
+                source_updated_at TEXT NOT NULL
             )
             """
         )
